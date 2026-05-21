@@ -1,0 +1,56 @@
+[
+  {
+    "ticket_id": "T1",
+    "predicted_category": "login_access",
+    "predicted_urgency": "high",
+    "confidence": 0.85,
+    "route": "auto_triage",
+    "customer_reply": "Thank you for reaching out and I’m sorry to hear that you’re having trouble logging into your account after updating your password. This can be frustrating, and I understand the urgency of the situation. Please double-check that you are entering the new password correctly, including any capitalization or special characters. If the issue persists, we recommend trying to reset your password again or contacting us for further assistance.",
+    "internal_note": null
+  },
+  {
+    "ticket_id": "T2",
+    "predicted_category": "billing",
+    "predicted_urgency": "high",
+    "confidence": 0.85,
+    "route": "auto_triage",
+    "customer_reply": "Thank you for reaching out to us regarding your recent withdrawal. I understand how important it is to have your funds available, and I apologize for any inconvenience this delay may have caused. I will escalate your concern to our billing team for further investigation and ensure you receive an update as soon as possible.",
+    "internal_note": null
+  },
+  {
+    "ticket_id": "T3",
+    "predicted_category": "technical_issue",
+    "predicted_urgency": "medium",
+    "confidence": 0.75,
+    "route": "auto_triage",
+    "customer_reply": "Thank you for bringing this issue to our attention. We understand how frustrating it can be when a mobile site is slow and charts freeze, and we appreciate your patience as we work to improve the experience. Our team is looking into this matter, and we value your feedback.",
+    "internal_note": null
+  },
+  {
+    "ticket_id": "T4",
+    "predicted_category": "verification",
+    "predicted_urgency": "medium",
+    "confidence": 0.85,
+    "route": "auto_triage",
+    "customer_reply": "Thank you for reaching out regarding your account verification. To update your address, you will typically need to provide a government-issued ID and a recent utility bill or bank statement that reflects your new address. If you have any further questions or need assistance with the process, please let us know.",
+    "internal_note": null
+  },
+  {
+    "ticket_id": "T5",
+    "predicted_category": "account_closure",
+    "predicted_urgency": "medium",
+    "confidence": 0.85,
+    "route": "auto_triage",
+    "customer_reply": "Dear [Customer's Name],  \n\nThank you for reaching out to us. We understand that you wish to close your account permanently, and we respect your decision. Please allow us some time to process your request, and if you have any further questions or need assistance, feel free to let us know.  \n\nBest regards,  \n[Your Name]  \nCustomer Support Team",
+    "internal_note": null
+  },
+  {
+    "ticket_id": "T6",
+    "predicted_category": "feature_request",
+    "predicted_urgency": "low",
+    "confidence": 0.85,
+    "route": "auto_triage",
+    "customer_reply": "Thank you for your suggestion regarding the addition of a dark mode feature in the dashboard. We understand how important this functionality can be for our users and appreciate your feedback. While we cannot guarantee specific changes, we will certainly pass your request along to our development team for consideration.",
+    "internal_note": null
+  }
+]

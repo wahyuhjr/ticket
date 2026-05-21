@@ -1,0 +1,38 @@
+[
+  {
+    "expected": "login_access",
+    "predicted": "login_access",
+    "count": 1,
+    "correct": true
+  },
+  {
+    "expected": "billing",
+    "predicted": "billing",
+    "count": 1,
+    "correct": true
+  },
+  {
+    "expected": "technical_issue",
+    "predicted": "technical_issue",
+    "count": 1,
+    "correct": true
+  },
+  {
+    "expected": "verification",
+    "predicted": "verification",
+    "count": 1,
+    "correct": true
+  },
+  {
+    "expected": "account_closure",
+    "predicted": "account_closure",
+    "count": 1,
+    "correct": true
+  },
+  {
+    "expected": "feature_request",
+    "predicted": "feature_request",
+    "count": 1,
+    "correct": true
+  }
+]
